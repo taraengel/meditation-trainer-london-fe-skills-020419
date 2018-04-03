@@ -6,4 +6,4 @@ becomes part of your career that someone will come to you with a napkin with
 taco sauce on it along with a drawing of the app they want. In that spirit,
 build this app:
 
-![Meditation Trainer]()
+![Meditation Trainer](./img/drawing.jpg)
