@@ -1,10 +1,10 @@
 # Meditation Trainer
 
 As befits someone with solid experience in HTML, CSS, and JavaScript, we're
-going to give you a taste of the real world. It's entirely likely, as this
-becomes part of your career that someone will come to you with a napkin with
-taco sauce on it along with a drawing of the app they want. In that spirit,
-build this app:
+going to give you a taste of the real world. It's entirely likely that, as
+programming becomes a part of your career, someone will come to you with a
+taco sauce smeared napkin complete with a drawing of the app they want to build.
+In that spirit, build this app:
 
 ![Meditation Trainer](./img/drawing.jpg)
 
@@ -23,7 +23,7 @@ between the lines of what people want.
 > box next to it to types a small instruction like "Nice and easy, through the
 > nose" or "Think of your mantra." Oh, the button should change its text. Oh and
 > we only ever want one button, nice and simple. Anyway, you get to the top of
-> the breath, lungs all full and they click the button that says like "Inhale
+> the breath, lungs all full and they click the button that says, like, "Inhale
 > done" or "stop breathing." They then click the button again and start an
 > exhale. Button text should change, instructions too. Then click the button to
 > mark all done and WHABAM! That breath should be added to a BREATH LOG. Also
