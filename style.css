@@ -49,3 +49,7 @@ h1 {
 .table {
   display: inline-block;
 }
+
+th {
+  font-size: 30px;
+}
