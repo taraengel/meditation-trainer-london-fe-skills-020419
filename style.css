@@ -20,6 +20,10 @@ h1 {
   display: inline-block;
 }
 
+.section {
+  display: inline-block;
+}
+
 .column {
   display: inline-block;
   -webkit-column-count: 2;
