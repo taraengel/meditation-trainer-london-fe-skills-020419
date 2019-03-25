@@ -39,3 +39,7 @@ h1 {
 /*.button:hover {*/
 /*  background-color: #765F7F: */
 /*}*/
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
