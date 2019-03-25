@@ -10,7 +10,7 @@ h1 {
 .main {
   font-family: 'Poppins', Sans-Serif;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   position: relative;
   padding: 15px;
   margin-left: 25%;
