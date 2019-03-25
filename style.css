@@ -11,4 +11,5 @@ h1 {
   font-family: 'Poppins', Sans-Serif;
   display: flex;
   justify-content: space-around;
+  position: relative;
 }
