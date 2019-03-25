@@ -12,6 +12,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   position: relative;
+  padding: 15px;
 }
 
 .column {
