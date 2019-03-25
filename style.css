@@ -61,3 +61,7 @@ th {
   display: inline-block;
   width: 50%;
 }
+
+#instructions {
+  width: 50%;
+}
