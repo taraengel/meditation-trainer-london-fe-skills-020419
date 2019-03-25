@@ -16,6 +16,10 @@ h1 {
   margin-left: 25%;
 }
 
+.section {
+  display: inline-block;
+}
+
 .column {
   display: inline-block;
   -webkit-column-count: 2;
