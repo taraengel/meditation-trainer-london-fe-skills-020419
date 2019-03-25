@@ -54,3 +54,7 @@ th {
 .main-2 {
   display: flex;
 }
+
+.section-2 {
+  display: inline-block;
+}
