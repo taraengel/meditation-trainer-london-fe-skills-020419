@@ -10,4 +10,5 @@ h1 {
 .section {
   font-family: 'Poppins', Sans-Serif;
   display: flex;
+  justify-content: space-between;
 }
